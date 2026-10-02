@@ -1,0 +1,27 @@
+{
+  "id": "financial-reconciliation-and-approval-workbench-typescript",
+  "title": "Financial Reconciliation and Approval Workbench",
+  "family": "TypeScript",
+  "domain": "finance",
+  "actions": [
+    "callback",
+    "propose",
+    "approve"
+  ],
+  "samples": {
+    "callback": {
+      "id": "PAY-1",
+      "invoice": "INV-100",
+      "amount": 10000,
+      "signature": "Generate with the README signing example"
+    },
+    "propose": {
+      "id": "REVIEW-1",
+      "invoice": "INV-100",
+      "amount": 2000
+    },
+    "approve": {
+      "id": "REVIEW-1"
+    }
+  }
+}

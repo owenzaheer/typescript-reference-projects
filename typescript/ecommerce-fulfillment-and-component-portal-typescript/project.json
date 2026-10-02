@@ -1,0 +1,34 @@
+{
+  "id": "ecommerce-fulfillment-and-component-portal-typescript",
+  "title": "Ecommerce Fulfillment and Component Portal",
+  "family": "TypeScript",
+  "domain": "commerce",
+  "actions": [
+    "reserve",
+    "cancel",
+    "ship",
+    "refund",
+    "relay"
+  ],
+  "samples": {
+    "reserve": {
+      "id": "ORDER-1",
+      "sku": "BOOK",
+      "quantity": 2,
+      "version": 0
+    },
+    "cancel": {
+      "id": "ORDER-1",
+      "version": 0
+    },
+    "ship": {
+      "id": "ORDER-1",
+      "version": 0
+    },
+    "refund": {
+      "id": "ORDER-1",
+      "version": 1
+    },
+    "relay": {}
+  }
+}

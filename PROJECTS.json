@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ecommerce-fulfillment-and-component-portal-typescript",
+    "title": "Ecommerce Fulfillment and Component Portal",
+    "family": "TypeScript",
+    "folder": "typescript/ecommerce-fulfillment-and-component-portal-typescript"
+  },
+  {
+    "id": "financial-reconciliation-and-approval-workbench-typescript",
+    "title": "Financial Reconciliation and Approval Workbench",
+    "family": "TypeScript",
+    "folder": "typescript/financial-reconciliation-and-approval-workbench-typescript"
+  },
+  {
+    "id": "education-learning-and-assessment-portal-typescript",
+    "title": "Education Learning and Assessment Portal",
+    "family": "TypeScript",
+    "folder": "typescript/education-learning-and-assessment-portal-typescript"
+  }
+]
